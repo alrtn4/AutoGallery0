@@ -10,7 +10,7 @@ namespace AutoGallery
     public class MyDbContext : DbContext
     {
 
-        public MyDbContext(): base("DefaultConnection") 
+        public MyDbContext() : base("DefaultConnection")
         {
 
         }

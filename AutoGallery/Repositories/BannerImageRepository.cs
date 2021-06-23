@@ -6,14 +6,14 @@ using AutoGallery.Models;
 
 namespace AutoGallery.Repositories
 {
-    public class BannerImageRepository
+    public class BannerImageRepository : IRepository
     {
         private readonly MyDbContext _context;
 
-        public BannerImageRepository()
-        {
+        //public BannerImageRepository()
+        //{
 
-        }
+        //}
         public BannerImageRepository(MyDbContext context)
         {
             _context = context;

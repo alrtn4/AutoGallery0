@@ -80,4 +80,11 @@ C:\Users\User\Desktop\AutoGallery\AutoGallery\bin\EntityFramework.SqlServer.xml
 C:\Users\User\Desktop\AutoGallery\AutoGallery\obj\Debug\AutoGallery.Migrations.initDb.resources
 C:\Users\User\Desktop\AutoGallery\AutoGallery\obj\Debug\AutoGallery.csproj.GenerateResource.cache
 C:\Users\User\Desktop\AutoGallery\AutoGallery\obj\Debug\AutoGallery.Migrations.ttt.resources
+C:\Users\User\Desktop\AutoGallery\AutoGallery\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\AutoGallery\AutoGallery\bin\Unity.Abstractions.dll
+C:\Users\User\Desktop\AutoGallery\AutoGallery\bin\Unity.Container.dll
+C:\Users\User\Desktop\AutoGallery\AutoGallery\bin\Unity.Mvc5.dll
+C:\Users\User\Desktop\AutoGallery\AutoGallery\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\AutoGallery\AutoGallery\bin\Unity.Abstractions.pdb
+C:\Users\User\Desktop\AutoGallery\AutoGallery\bin\Unity.Container.pdb
 C:\Users\User\Desktop\AutoGallery\AutoGallery\obj\Debug\AutoGallery.csprojAssemblyReference.cache

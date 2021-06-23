@@ -11,15 +11,15 @@ namespace AutoGallery.Controllers
 {
     public class DefaultController : Controller
     {
-        BannerImageRepository _repo;
-        public DefaultController(BannerImageRepository repo)
+        private readonly IRepository _repo;
+        public DefaultController(IRepository repo)
         {
             _repo = repo;
         }
 
         public DefaultController()
         {
-
+            _repo = new BannerImageRepository(new MyDbContext());
         }
 
         // GET: Default
